@@ -7,6 +7,9 @@ Data Science class for CSU CSIE
     * Python 數據操作：尋找數據、數據清洗、規一化、標準化
     * 網頁爬取
     * 政府公開資料
+* 雲端平台
+    * Microsoft Azure
+    * Google Cloud Platform
 * 數據分析
     * 分離和聚焦數據
     * 特徵工程
