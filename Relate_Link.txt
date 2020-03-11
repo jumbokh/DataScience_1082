@@ -1,0 +1,20 @@
+https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E8%B6%B3%E5%8D%94%E4%B8%96%E7%95%8C%E7%9B%83
+
+https://tw.stock.yahoo.com/q/ts?s=2317
+
+http://archive.ics.uci.edu/ml/datasets/Air+Quality
+
+資料庫連接
+伺服器: msedxeus.database.windows.net
+資料庫(選用): DAT206x01
+user: ExcelLogin
+pass: P@ssw0rd
+
+https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&pli=1
+
+https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=census_bureau_acs&page=dataset&project=mic-1e100&folder&organizationId
+
+https://data.world/datasets/marketplace
+https://data.world/adamhelsinger/united-airlines-data
+
+https://www.kdnuggets.com/
