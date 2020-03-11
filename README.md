@@ -12,7 +12,7 @@ Data Science class for CSU CSIE
     * 練習
         * [PowerBI 下載安裝](https://www.microsoft.com/zh-TW/download/details.aspx?id=58494)
         * [臺灣行政區人口列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
-        * [EX1 -- 從excel 檔案讀取資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C01/C01E01.xlsx)
+        * [EX1 -- 從excel 檔案讀取資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C01/C01E01.xlsx) [pdf](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex1.pdf)
         * [EX2 part1 -- 匯入資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E01.xlsx)
         * [Ex2 part2 -- 合併查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx)
         * [Ex2 part3 -- "認識來自範例資料行"](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx)
