@@ -16,14 +16,16 @@ Data Science class for CSU CSIE
         * [EX2 part1 -- 匯入資料合併查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex2.pdf)
         * [Ex2 part2 -- 事實表格與查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex3.pdf)
         * [Ex2 part3 -- "認識來自範例資料行"](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex4.pdf)
+        * [台電統計年報 106](https://www.taipower.com.tw/upload/_userfilesfiles/106%E5%B9%B4%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1(1).pdf)
+           行業別：第 142頁 -- 機械設備製造
+##
         * Ex3 -- 自行車與配件範例資料：[Bikes](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Bikes.xlsx)， [Accessories](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Accessories.xlsx) ，[Components](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Components.xlsx)， [Clothing](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Clothing.xlsx)
             * 自行車與配件範例
             * 將查詢附加為新查詢
             * 查詢相依性與參考
             * 附加三個以上的資料表
             * 附加來自一個資料夾的產品 [products.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E03%20-%20Products.zip)
-        * [台電統計年報 106](https://www.taipower.com.tw/upload/_userfilesfiles/106%E5%B9%B4%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1(1).pdf)
-           行業別：第 142頁 -- 機械設備製造
+        
 * 雲端平台
     * Microsoft Azure
     * Google Cloud Platform
