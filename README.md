@@ -7,6 +7,8 @@ Data Science class for CSU CSIE
     * Python 數據操作：尋找數據、數據清洗、規一化、標準化
     * 網頁爬取
     * 政府公開資料
+    * 練習
+        * [臺灣行政區人口列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
 * 雲端平台
     * Microsoft Azure
     * Google Cloud Platform
