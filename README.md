@@ -1,6 +1,8 @@
 # DataScience_1082
 Data Science class for CSU CSIE
 ## 大數據及雲端服務應用
+### Date
+* 3/12、3/19、3/26、4/9、4/16、4/23
 ### 課綱
 * 數據取得與存檔
     * 以PowerBI 執行資料取得與前處理：CSV、Excel、pdf
