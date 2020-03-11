@@ -13,7 +13,7 @@ Data Science class for CSU CSIE
         * [PowerBI 下載安裝](https://www.microsoft.com/zh-TW/download/details.aspx?id=58494)
         * [臺灣行政區人口列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
         * [EX1 -- 從excel 檔案讀取資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C01/C01E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex1.pdf)
-        * [EX2 part1 -- 匯入資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E01.xlsx)
+        * [EX2 part1 -- 匯入資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex2.pdf)
         * [Ex2 part2 -- 合併查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx)
         * [Ex2 part3 -- "認識來自範例資料行"](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx)
         * Ex3 -- 自行車與配件範例資料：[Bikes](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Bikes.xlsx)， [Accessories](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Accessories.xlsx) ，[Components](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Components.xlsx)， [Clothing](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Clothing.xlsx)
