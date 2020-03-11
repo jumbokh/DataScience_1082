@@ -2,6 +2,22 @@
 Data Science class for CSU CSIE
 ## 大數據及雲端服務應用
 ### 課綱
+* 數據取得與存檔
+    * 以PowerBI 執行資料取得與前處理：CSV、Excel、pdf
+    * Python 數據操作：尋找數據、數據清洗、規一化、標準化
+    * 網頁爬取
+    * 政府公開資料
+* 數據分析
+    * 分離和聚焦數據
+    * 特徵工程
+    * 資料可視化：散佈圖、直方圖、熱力關係圖
+* 回歸分析
+    * 簡單回歸
+    * 羅輯斯回歸
+* 範例
+    * 新北市公共自行車租賃系統(YouBike)
+    * 氣象局開放資料擷取
+    * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
 ### 參考連結
 ### 書籍
 * ![Power BI](http://www.gotop.com.tw/Waweb2004/WawebImages/BookXL/ACI031500.jpg)
