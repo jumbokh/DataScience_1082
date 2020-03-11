@@ -10,6 +10,7 @@ Data Science class for CSU CSIE
     * 練習
         * [PowerBI 下載安裝](https://www.microsoft.com/zh-TW/download/details.aspx?id=58494)
         * [臺灣行政區人口列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
+        * [台電統計年報 106](https://www.taipower.com.tw/upload/_userfilesfiles/106%E5%B9%B4%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1(1).pdf)
 * 雲端平台
     * Microsoft Azure
     * Google Cloud Platform
@@ -19,7 +20,7 @@ Data Science class for CSU CSIE
     * 資料可視化：散佈圖、直方圖、熱力關係圖
 * 回歸分析
     * 簡單回歸
-    * 羅輯斯回歸
+    * 邏輯斯回歸
 * 範例
     * 新北市公共自行車租賃系統(YouBike)
     * 氣象局開放資料擷取
