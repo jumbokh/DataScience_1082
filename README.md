@@ -5,7 +5,7 @@ Data Science class for CSU CSIE
 * 3/12、3/19、3/26、4/9、4/16、4/23
 ### 課綱
 * 數據取得與存檔
-    * 以PowerBI 執行資料取得與前處理：CSV、Excel、pdf
+    * 以PowerBI 執行資料取得與前處理：CSV、Excel、web、pdf [[ppt]](https://github.com/jumbokh/DataScience_1082/blob/master/Power%20BI.pptx)
     * Python 數據操作：尋找數據、數據清洗、規一化、標準化
     * 網頁爬取
     * 政府公開資料
