@@ -28,9 +28,6 @@ Data Science class for CSU CSIE
             * 附加三個以上的資料表
             * 附加來自一個資料夾的產品 [products.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E03%20-%20Products.zip)
  ##       
-* 雲端平台
-    * Microsoft Azure
-    * Google Cloud Platform
 * 數據分析
     * 分離和聚焦數據
     * 特徵工程
@@ -38,7 +35,12 @@ Data Science class for CSU CSIE
 * 回歸分析
     * 簡單回歸
     * 邏輯斯回歸
-* 範例
+* 雲端平台
+    * Microsoft Azure
+    * Google Cloud Platform
+##
+* 問題挑戰範例
+    * 應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森
     * 新北市公共自行車租賃系統(YouBike)
     * 氣象局開放資料擷取
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
