@@ -53,6 +53,7 @@ Data Science class for CSU CSIE
     * [氣象局開放資料擷取](中央氣象局開放資料平臺之資料擷取API)
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
 ### 參考連結
+* [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00&feature=youtu.be)
 ### 書籍
 * ![Power BI](http://www.gotop.com.tw/Waweb2004/WawebImages/BookXL/ACI031500.jpg)
     * [PowerBI 終極實戰寶典](http://books.gotop.com.tw/v_ACI031500#03)
