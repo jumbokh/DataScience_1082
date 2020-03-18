@@ -8,7 +8,7 @@ Data Science class for CSU CSIE
     * 以PowerBI 執行資料取得與前處理：CSV、Excel、web、pdf [[ppt]](https://github.com/jumbokh/DataScience_1082/blob/master/Power%20BI.pptx)
     * Python 數據操作：尋找數據、數據清洗、規一化、標準化
     * 網頁爬取
-    * 政府公開資料 [pdf](https://github.com/jumbokh/DataScience_1082/blob/master/data/opendata.pdf)
+    * [政府公開資料](https://data.gov.tw/) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/opendata.pdf)
          * [景點--觀光資訊資料庫](https://github.com/jumbokh/DataScience_1082/blob/master/data/108itaiwanhotspots.csv) [pbix](https://github.com/jumbokh/DataScience_1082/blob/master/data/tw-travel.pbix)
          
     * 練習 (請下載範例資料檔並解壓縮成 C:\Data： [Data.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/Data.zip))
