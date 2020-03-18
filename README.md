@@ -8,7 +8,7 @@ Data Science class for CSU CSIE
     * 以PowerBI 執行資料取得與前處理：CSV、Excel、web、pdf [[ppt]](https://github.com/jumbokh/DataScience_1082/blob/master/Power%20BI.pptx)
     * Python 數據操作：尋找數據、數據清洗、規一化、標準化
     * 網頁爬取
-    * 社群網路分析 [[DOC]](https://github.com/jumbokh/DataScience_1082/blob/master/data/FB-Likes-doc.pdf) [[PPT]](https://github.com/jumbokh/DataScience_1082/blob/master/data/fb-likes.pdf) [[範例]](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C13/C13E01%20-%20Solution.pbit) [[範例: 朋友按讚統計](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex-fb-friend-like.pbix)
+    * 社群網路分析 [[DOC]](https://github.com/jumbokh/DataScience_1082/blob/master/data/FB-Likes-doc.pdf) [[PPT]](https://github.com/jumbokh/DataScience_1082/blob/master/data/fb-likes.pdf) [[範例]](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C13/C13E01%20-%20Solution.pbit) [[範例: 朋友按讚統計]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex-fb-friend-like.pbix)
     * [政府公開資料](https://data.gov.tw/) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/opendata.pdf)
          * [景點--觀光資訊資料庫](https://github.com/jumbokh/DataScience_1082/blob/master/data/108itaiwanhotspots.csv) [pbix](https://github.com/jumbokh/DataScience_1082/blob/master/data/tw-travel.pbix)
          
@@ -28,7 +28,7 @@ Data Science class for CSU CSIE
             * 附加三個以上的資料表
             * 附加來自一個資料夾的產品 [products.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E03%20-%20Products.zip)
             * HW1: 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 3/12
-            * HW2: 
+            * HW2: 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020)
  ##       
 * 數據分析
     * 分離和聚焦數據
