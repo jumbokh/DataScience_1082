@@ -36,7 +36,7 @@ Data Science class for CSU CSIE
 ### Home Work
 * HW1: 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 3/12
 * HW2: 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020)
-      * ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
+    * ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
  ##       
 * 數據分析
     * 分離和聚焦數據
