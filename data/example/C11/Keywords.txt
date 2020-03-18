@@ -1,0 +1,28 @@
+excel
+powerpoint
+microsoft word
+microsoft access
+outlook
+office
+sharepoint
+project
+skype
+power bi
+sql
+azure
+windows
+security
+iot
+asp.net
+web
+visual studio
+c#
+programming
+hdinsight
+bot framework
+active directory
+exchange
+system center
+dax
+power pivot
+power query
