@@ -40,7 +40,7 @@ Data Science class for CSU CSIE
     * Google Cloud Platform
 ##
 * 問題挑戰範例
-    * 應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森
+    * [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf)
     * 新北市公共自行車租賃系統(YouBike)
     * 氣象局開放資料擷取
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
