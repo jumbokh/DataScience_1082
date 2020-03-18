@@ -31,6 +31,7 @@ Data Science class for CSU CSIE
         * 查詢相依性與參考
         * 附加三個以上的資料表
         * 附加來自一個資料夾的產品 [products.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E03%20-%20Products.zip)
+    * 政府公開資料取得、分析
     * 社群網路分析
 ### Home Work
 * HW1: 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 3/12
