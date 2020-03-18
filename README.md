@@ -41,8 +41,8 @@ Data Science class for CSU CSIE
 ##
 * 問題挑戰範例
     * [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf)
-    * 新北市公共自行車租賃系統(YouBike)
-    * 氣象局開放資料擷取
+    * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
+    * [氣象局開放資料擷取](中央氣象局開放資料平臺之資料擷取API)
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
 ### 參考連結
 ### 書籍
