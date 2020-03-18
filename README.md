@@ -8,7 +8,7 @@ Data Science class for CSU CSIE
     * 以PowerBI 執行資料取得與前處理：CSV、Excel、web、pdf [[ppt]](https://github.com/jumbokh/DataScience_1082/blob/master/Power%20BI.pptx)
     * Python 數據操作：尋找數據、數據清洗、規一化、標準化
     * 網頁爬取
-    * 社群網路分析 [[DOC]](https://github.com/jumbokh/DataScience_1082/blob/master/data/FB-Likes-doc.pdf) [[PPT]](https://github.com/jumbokh/DataScience_1082/blob/master/data/fb-likes.pdf) [[範例]](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C13/C13E01%20-%20Solution.pbit)
+    * 社群網路分析 [[DOC]](https://github.com/jumbokh/DataScience_1082/blob/master/data/FB-Likes-doc.pdf) [[PPT]](https://github.com/jumbokh/DataScience_1082/blob/master/data/fb-likes.pdf) [[範例]](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C13/C13E01%20-%20Solution.pbit) [[範例: 朋友按讚統計](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex-fb-friend-like.pbix)
     * [政府公開資料](https://data.gov.tw/) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/opendata.pdf)
          * [景點--觀光資訊資料庫](https://github.com/jumbokh/DataScience_1082/blob/master/data/108itaiwanhotspots.csv) [pbix](https://github.com/jumbokh/DataScience_1082/blob/master/data/tw-travel.pbix)
          
