@@ -10,18 +10,18 @@ Data Science class for CSU CSIE
     * 網頁爬取
     * 社群網路分析 [[DOC]](https://github.com/jumbokh/DataScience_1082/blob/master/data/FB-Likes-doc.pdf) [[PPT]](https://github.com/jumbokh/DataScience_1082/blob/master/data/fb-likes.pdf) [[範例]](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C13/C13E01%20-%20Solution.pbit) [[範例: 朋友按讚統計]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex-fb-friend-like.pbix)
     * [政府公開資料](https://data.gov.tw/) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/opendata.pdf)
-         * [景點--觀光資訊資料庫](https://github.com/jumbokh/DataScience_1082/blob/master/data/108itaiwanhotspots.csv) [pbix](https://github.com/jumbokh/DataScience_1082/blob/master/data/tw-travel.pbix)
-         
-    * 練習 (請下載範例資料檔並解壓縮成 C:\Data： [Data.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/Data.zip))
-        * [PowerBI 下載安裝](https://www.microsoft.com/zh-TW/download/details.aspx?id=58494)
-        * [臺灣行政區人口列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
-        * [EX1 -- 從excel 檔案讀取資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C01/C01E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex1.pdf)
-        * [EX2 part1 -- 匯入資料合併查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex2.pdf)
-        * [Ex2 part2 -- 事實表格與查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex3.pdf)
-        * [Ex2 part3 -- "認識來自範例資料行"](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex4.pdf)
-        * [台電統計年報 106](https://www.taipower.com.tw/upload/_userfilesfiles/106%E5%B9%B4%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1(1).pdf)
+        * [景點--觀光資訊資料庫](https://github.com/jumbokh/DataScience_1082/blob/master/data/108itaiwanhotspots.csv) [pbix](https://github.com/jumbokh/DataScience_1082/blob/master/data/tw-travel.pbix)
+##         
+* 3/12 練習 (請下載範例資料檔並解壓縮成 C:\Data： [Data.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/Data.zip))
+    * [PowerBI 下載安裝](https://www.microsoft.com/zh-TW/download/details.aspx?id=58494)
+    * [臺灣行政區人口列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
+    * [EX1 -- 從excel 檔案讀取資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C01/C01E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex1.pdf)
+    * [EX2 part1 -- 匯入資料合併查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex2.pdf)
+    * [Ex2 part2 -- 事實表格與查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex3.pdf)
+    * [Ex2 part3 -- "認識來自範例資料行"](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex4.pdf)
+    * [台電統計年報 106](https://www.taipower.com.tw/upload/_userfilesfiles/106%E5%B9%B4%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1(1).pdf)
            行業別：第 142頁 -- 機械設備製造
-        * Ex3 -- 自行車與配件範例資料：[Bikes](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Bikes.xlsx)， [Accessories](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Accessories.xlsx) ，[Components](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Components.xlsx)， [Clothing](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Clothing.xlsx)
+    * Ex3 -- 自行車與配件範例資料：[Bikes](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Bikes.xlsx)， [Accessories](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Accessories.xlsx) ，[Components](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Components.xlsx)， [Clothing](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Clothing.xlsx)
 ##
 * 3/19 練習
     * [登入 power BI 網站](https://powerbi.microsoft.com/zh-tw/) 
