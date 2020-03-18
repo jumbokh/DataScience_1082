@@ -25,6 +25,7 @@ Data Science class for CSU CSIE
 ##
 * 3/19 練習
     * [登入 power BI 網站](https://powerbi.microsoft.com/zh-tw/) 
+        * [Power BI Web](https://github.com/jumbokh/DataScience_1082/blob/master/images/powerbi-web.JPG)
     * [自行車與配件範例 PDF](https://github.com/jumbokh/DataScience_1082/blob/master/data/ch3.pdf) 
         * 將查詢附加為新查詢
         * 查詢相依性與參考
