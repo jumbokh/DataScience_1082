@@ -47,7 +47,14 @@ Data Science class for CSU CSIE
 * HW1(3/12): 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 
 * HW2(3/19): 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020) 
     * ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
- ##       
+ ##      
+* 神經網路基礎
+    * [反向傳播算法](https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95)
+    * [梯度下降法](https://zh.wikipedia.org/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95)
+    * [損失函數](https://zh.wikipedia.org/wiki/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0)
+    * [最小平方法](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95)
+    * [激勵函數](https://zh.wikipedia.org/wiki/%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0)
+* [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html)
 * 數據分析
     * 分離和聚焦數據
     * 特徵工程
