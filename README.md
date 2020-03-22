@@ -33,6 +33,16 @@ Data Science class for CSU CSIE
         * 附加來自一個資料夾的產品 [products.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E03%20-%20Products.zip)
     * 政府公開資料取得、分析
     * 社群網路分析
+##
+* 3/26 
+    *數據清洗：研究、匹配與格式化
+         * [Data Wrangling: CH7--Data Cleanup](https://github.com/jumbokh/data-wrangling/tree/master/code/chp7-cleanup)
+    * 數據清洗：標準化和腳本化
+         * [Data Wrangling: CH8--Data Cleanup](https://github.com/jumbokh/data-wrangling/tree/master/code/chp8-cleanup)
+    * Scikit-learn 範例
+         * [scikit-learn classification](https://scikit-learn.org/stable/auto_examples/index.html#classification)
+    * [colab in Google Drive](https://nbviewer.jupyter.org/github/jumbokh/deep-learning-with-python-notebooks/blob/master/2.1-a-first-look-at-a-neural-network.ipynb) [記得最前面加這一行 code: %tensorflow_version 1.x]
+##
 ### Home Work
 * HW1(3/12): 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 
 * HW2(3/19): 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020) 
