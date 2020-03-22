@@ -50,6 +50,7 @@ Data Science class for CSU CSIE
  ##      
 * 神經網路基礎
     * [反向傳播算法](https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95)
+    * [DNN Backpropogation](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/DNN%20backprop.ecm.mp4/index.html)
     * [梯度下降法](https://zh.wikipedia.org/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95)
     * [損失函數](https://zh.wikipedia.org/wiki/%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0)
     * [最小平方法](https://zh.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95)
