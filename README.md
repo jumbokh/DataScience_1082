@@ -47,7 +47,8 @@ Data Science class for CSU CSIE
 * HW1(3/12): 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 
 * HW2(3/19): 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020) 
     * ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
- ##      
+ ##   
+* [深度學習](https://github.com/jumbokh/intro-computers/blob/master/DeepLearning.md)
 * 神經網路基礎
     * [反向傳播算法](https://zh.wikipedia.org/wiki/%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E7%AE%97%E6%B3%95)
     * [DNN Backpropogation](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/DNN%20backprop.ecm.mp4/index.html)
