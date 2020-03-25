@@ -63,12 +63,12 @@ Data Science class for CSU CSIE
 ##
 * ![Python數據科學手冊](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/CN1/151/72/CN11517291.jpg&v=5aca6204&w=348&h=348)
     * [Python數據科學手冊](https://www.books.com.tw/products/CN11517291)
-* ![book1](images/book1.png)
+* ![book1](https://github.com/jumbokh/intro-computers/blob/master/images/book1.png)
 * [旗標-深度學習必讀](https://www.flag.com.tw/books/product/F9379)
-* ![book2](images/book2.png)
+* ![book2](https://github.com/jumbokh/intro-computers/blob/master/images/book2.png)
 * [鴻海-人工智慧導論](https://www.books.com.tw/products/0010826415)
-* ![book3](images/book3.png)
+* ![book3](https://github.com/jumbokh/intro-computers/blob/master/images/book3.png)
 * [歐萊里-Python 數據科學手冊](https://www.books.com.tw/products/CN11517291)
-* ![book4](images/book4.PNG)
+* ![book4](https://github.com/jumbokh/intro-computers/blob/master/images/book4.png)
 * [前程文化-大數據分析與資料挖礦2/e](https://www.books.com.tw/products/0010815082)
 
