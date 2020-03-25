@@ -12,13 +12,10 @@ Data Science class for CSU CSIE
     * 社群網路分析 [[DOC]](https://github.com/jumbokh/DataScience_1082/blob/master/data/FB-Likes-doc.pdf) [[PPT]](https://github.com/jumbokh/DataScience_1082/blob/master/data/fb-likes.pdf) [[範例]](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C13/C13E01%20-%20Solution.pbit) [[範例: 朋友按讚統計]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex-fb-friend-like.pbix)
     * [政府公開資料](https://data.gov.tw/) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/opendata.pdf)
         * [景點--觀光資訊資料庫](https://github.com/jumbokh/DataScience_1082/blob/master/data/108itaiwanhotspots.csv) [pbix](https://github.com/jumbokh/DataScience_1082/blob/master/data/tw-travel.pbix)
+* 數據分析
 * [大數據](https://github.com/jumbokh/intro-computers/blob/master/BigData.md)
 * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
 * [iris-经典案例解析-机器学习](https://www.jianshu.com/p/da18f0cd7f60)
-* 數據分析
-    * 分離和聚焦數據
-    * 特徵工程
-    * 資料可視化：散佈圖、直方圖、熱力關係圖
 * 回歸分析
     * 簡單回歸
     * 邏輯斯回歸
