@@ -16,7 +16,7 @@ Data Science class for CSU CSIE
     * [大數據](https://github.com/jumbokh/intro-computers/blob/master/BigData.md)
     * [機器學習](https://github.com/jumbokh/intro-computers/blob/master/ML_ClassD1.pdf)
     * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
-    * [iris-经典案例解析-机器学习](https://www.jianshu.com/p/da18f0cd7f60)
+    
     * [簡單迴歸](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/simple_regression.ipynb)
     * [判斷是哪個亞種的鳶尾花](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/0702%20%E5%88%A4%E6%96%B7%E6%98%AF%E5%93%AA%E5%80%8B%E4%BA%9E%E7%A8%AE%E7%9A%84%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
     * [正則化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)
@@ -46,6 +46,7 @@ Data Science class for CSU CSIE
 ### 參考連結
 * [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00&feature=youtu.be)
 * [李宏毅老師--機器學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html?fbclid=IwAR1KQwREtEHpCKeNNmiPa7uwYZITcMMag5xrc3PudXtTDG6Zf7aw-03fR6A)
+* [iris-经典案例解析-机器学习](https://www.jianshu.com/p/da18f0cd7f60)
 ##### 見 7.5 做鳶尾花的分類
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
 ##### 見 [3.1. 线性回归](https://zh.d2l.ai/chapter_deep-learning-basics/linear-regression.html)
