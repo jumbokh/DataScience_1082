@@ -3,6 +3,7 @@ Data Science class for CSU CSIE
 ## 大數據及雲端服務應用
 ### Date
 * 3/12、3/19、3/26、4/9、4/16、4/23
+### [課堂練習](inclass.md)
 ### 課綱
 * 數據取得與存檔
     * 以PowerBI 執行資料取得與前處理：CSV、Excel、web、pdf [[ppt]](https://github.com/jumbokh/DataScience_1082/blob/master/Power%20BI.pptx)
@@ -11,44 +12,9 @@ Data Science class for CSU CSIE
     * 社群網路分析 [[DOC]](https://github.com/jumbokh/DataScience_1082/blob/master/data/FB-Likes-doc.pdf) [[PPT]](https://github.com/jumbokh/DataScience_1082/blob/master/data/fb-likes.pdf) [[範例]](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C13/C13E01%20-%20Solution.pbit) [[範例: 朋友按讚統計]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex-fb-friend-like.pbix)
     * [政府公開資料](https://data.gov.tw/) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/opendata.pdf)
         * [景點--觀光資訊資料庫](https://github.com/jumbokh/DataScience_1082/blob/master/data/108itaiwanhotspots.csv) [pbix](https://github.com/jumbokh/DataScience_1082/blob/master/data/tw-travel.pbix)
-##         
-* 3/12 練習 (請下載範例資料檔並解壓縮成 C:\Data： [Data.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/Data.zip))
-    * [PowerBI 下載安裝](https://www.microsoft.com/zh-TW/download/details.aspx?id=58494)
-    * [臺灣行政區人口列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
-    * [EX1 -- 從excel 檔案讀取資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C01/C01E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex1.pdf)
-    * [EX2 part1 -- 匯入資料合併查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex2.pdf)
-    * [Ex2 part2 -- 事實表格與查閱表格](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex3.pdf)
-    * [Ex2 part3 -- "認識來自範例資料行"](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C02/C02E02.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex4.pdf)
-    * [台電統計年報 106](https://www.taipower.com.tw/upload/_userfilesfiles/106%E5%B9%B4%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1(1).pdf)
-           行業別：第 142頁 -- 機械設備製造
-    * Ex3 -- 自行車與配件範例資料：[Bikes](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Bikes.xlsx)， [Accessories](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Accessories.xlsx) ，[Components](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Components.xlsx)， [Clothing](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E01%20-%20Clothing.xlsx)
-##
-* 3/19 練習
-    * [登入 power BI 網站](https://powerbi.microsoft.com/zh-tw/) 
-        * ![Power BI Web](https://github.com/jumbokh/DataScience_1082/blob/master/images/powerbi-web.JPG)
-    * [自行車與配件範例 PDF](https://github.com/jumbokh/DataScience_1082/blob/master/data/ch3.pdf) 
-        * 將查詢附加為新查詢
-        * 查詢相依性與參考
-        * 附加三個以上的資料表
-        * 附加來自一個資料夾的產品 [products.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C03/C03E03%20-%20Products.zip)
-    * 政府公開資料取得、分析
-    * 社群網路分析
-##
-* 3/26 練習
-    * 數據清洗：研究、匹配與格式化
-       * [Data Wrangling: CH7--Data Cleanup](https://github.com/jumbokh/data-wrangling/tree/master/code/chp7-cleanup)
-    * 數據清洗：標準化和腳本化
-       * [Data Wrangling: CH8--Data Cleanup](https://github.com/jumbokh/data-wrangling/tree/master/code/chp8-cleanup)
-    * Scikit-learn 範例
-       * [scikit-learn classification](https://scikit-learn.org/stable/auto_examples/index.html#classification)
-    * [colab in Google Drive](https://nbviewer.jupyter.org/github/jumbokh/deep-learning-with-python-notebooks/blob/master/2.1-a-first-look-at-a-neural-network.ipynb) [記得最前面加這一行 code: %tensorflow_version 1.x]
-##
-### Home Work
-* HW1(3/12): 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 
-* HW2(3/19): 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020) 
-    * ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
- ##   
-* [深度學習](https://github.com/jumbokh/intro-computers/blob/master/DeepLearning.md)
+* [大數據](https://github.com/jumbokh/intro-computers/blob/master/BigData.md)
+* [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
+* [iris-经典案例解析-机器学习](https://www.jianshu.com/p/da18f0cd7f60)
 * 數據分析
     * 分離和聚焦數據
     * 特徵工程
@@ -56,10 +22,17 @@ Data Science class for CSU CSIE
 * 回歸分析
     * 簡單回歸
     * 邏輯斯回歸
+* [雲端運算](https://github.com/jumbokh/intro-computers/blob/master/cloud.md)
 * 雲端平台
     * Microsoft Azure
     * Google Cloud Platform
+* [深度學習](https://github.com/jumbokh/intro-computers/blob/master/DeepLearning.md)
 ##
+
+### Home Work
+* HW1(3/12): 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 
+* HW2(3/19): 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020) 
+    * ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
 * 問題挑戰範例
     * [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf)
         * [農產品交易開放資料](https://data.coa.gov.tw/Query/OpenData.aspx)
@@ -68,9 +41,19 @@ Data Science class for CSU CSIE
     * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
     * [氣象局開放資料擷取](中央氣象局開放資料平臺之資料擷取API)
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
+##         
 ### 參考連結
 * [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00&feature=youtu.be)
 * [李宏毅老師--機器學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html?fbclid=IwAR1KQwREtEHpCKeNNmiPa7uwYZITcMMag5xrc3PudXtTDG6Zf7aw-03fR6A)
+##### 見 7.5 做鳶尾花的分類
+* [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
+##### 見 [3.1. 线性回归](https://zh.d2l.ai/chapter_deep-learning-basics/linear-regression.html)
+* [機器學習算法導論](https://lib-nuanxin.wqxuetang.com/#/Book/3208845)
+* [SGD, Momentum, AdaGrad, Adam Optimizer](https://mc.ai/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92ml-notesgd-momentum-adagrad-adam-optimizer-2/)
+* [机器学习之路：python线性回归分类器 LogisticRegression SGDClassifier 进行良恶性肿瘤分类预测](https://www.cnblogs.com/Lin-Yi/p/8970510.html)
+* [vs.code Download](https://code.visualstudio.com/)
+* [Deeplearning Algorithms Tutorial ](https://github.com/KeKe-Li/tutorial)
+##
 ### 書籍
 * ![Power BI](http://www.gotop.com.tw/Waweb2004/WawebImages/BookXL/ACI031500.jpg)
     * [PowerBI 終極實戰寶典](http://books.gotop.com.tw/v_ACI031500#03)
@@ -80,3 +63,12 @@ Data Science class for CSU CSIE
 ##
 * ![Python數據科學手冊](https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/CN1/151/72/CN11517291.jpg&v=5aca6204&w=348&h=348)
     * [Python數據科學手冊](https://www.books.com.tw/products/CN11517291)
+* ![book1](images/book1.png)
+* [旗標-深度學習必讀](https://www.flag.com.tw/books/product/F9379)
+* ![book2](images/book2.png)
+* [鴻海-人工智慧導論](https://www.books.com.tw/products/0010826415)
+* ![book3](images/book3.png)
+* [歐萊里-Python 數據科學手冊](https://www.books.com.tw/products/CN11517291)
+* ![book4](images/book4.PNG)
+* [前程文化-大數據分析與資料挖礦2/e](https://www.books.com.tw/products/0010815082)
+
