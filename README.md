@@ -68,7 +68,5 @@ Data Science class for CSU CSIE
 * ![book2](https://github.com/jumbokh/intro-computers/blob/master/images/book2.png)
 * [鴻海-人工智慧導論](https://www.books.com.tw/products/0010826415)
 * ![book3](https://github.com/jumbokh/intro-computers/blob/master/images/book3.png)
-* [歐萊里-Python 數據科學手冊](https://www.books.com.tw/products/CN11517291)
-* ![book4](https://github.com/jumbokh/intro-computers/blob/master/images/book4.PNG)
 * [前程文化-大數據分析與資料挖礦2/e](https://www.books.com.tw/products/0010815082)
 
