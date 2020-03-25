@@ -14,6 +14,7 @@ Data Science class for CSU CSIE
         * [景點--觀光資訊資料庫](https://github.com/jumbokh/DataScience_1082/blob/master/data/108itaiwanhotspots.csv) [pbix](https://github.com/jumbokh/DataScience_1082/blob/master/data/tw-travel.pbix)
 * 數據分析
     * [大數據](https://github.com/jumbokh/intro-computers/blob/master/BigData.md)
+    * [機器學習](https://github.com/jumbokh/intro-computers/blob/master/ML_ClassD1.pdf)
     * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)
     * [iris-经典案例解析-机器学习](https://www.jianshu.com/p/da18f0cd7f60)
     * 回歸分析
