@@ -1,3 +1,6 @@
+<pre>
+%tensorflow_version 1.x
+</pre>
 # DataScience_1082
 Data Science class for CSU CSIE
 ## 大數據及雲端服務應用
