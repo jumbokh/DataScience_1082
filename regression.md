@@ -20,3 +20,5 @@ y′=1/1+e−(1)=0.731
  
 </pre>
 ![Logistic regression](images/logistic.png)
+#### 參考連結
+* [机器学习](https://developers.google.com/machine-learning/crash-course/logistic-regression/calculating-a-probability?hl=zh-cn)
