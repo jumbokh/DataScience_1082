@@ -19,6 +19,7 @@ Data Science class for CSU CSIE
     * [大數據](https://github.com/jumbokh/intro-computers/blob/master/BigData.md)
     * [機器學習](https://github.com/jumbokh/intro-computers/blob/master/ML_ClassD1.pdf)
     * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)    
+    * [迴歸](regression.md)
     * [簡單迴歸](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/simple_regression.ipynb)
     * [深度學習--ch3](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Ch03.ipynb)
     * [判斷是哪個亞種的鳶尾花](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/0702%20%E5%88%A4%E6%96%B7%E6%98%AF%E5%93%AA%E5%80%8B%E4%BA%9E%E7%A8%AE%E7%9A%84%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
