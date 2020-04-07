@@ -19,3 +19,4 @@ b+w1x1+w2x2+w3x3
 y′=1/1+e−(1)=0.731
  
 </pre>
+![Logistic regression](images/logistic.png)
