@@ -74,6 +74,6 @@ Data Science class for CSU CSIE
 * [旗標-深度學習必讀](https://www.flag.com.tw/books/product/F9379)
 * ![book2](https://github.com/jumbokh/intro-computers/blob/master/images/book2.png)
 * [鴻海-人工智慧導論](https://www.books.com.tw/products/0010826415)
-* ![book4](https://github.com/jumbokh/intro-computers/blob/master/images/book4.png)
+* ![book4](https://github.com/jumbokh/intro-computers/blob/master/images/book4.PNG)
 * [前程文化-大數據分析與資料挖礦2/e](https://www.books.com.tw/products/0010815082)
 
