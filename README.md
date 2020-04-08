@@ -51,9 +51,9 @@ Data Science class for CSU CSIE
 * [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00&feature=youtu.be)
 * [李宏毅老師--機器學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html?fbclid=IwAR1KQwREtEHpCKeNNmiPa7uwYZITcMMag5xrc3PudXtTDG6Zf7aw-03fR6A)
 * [iris-经典案例解析-机器学习](https://www.jianshu.com/p/da18f0cd7f60)
-##### 見 7.5 做鳶尾花的分類
+    * 見 7.5 做鳶尾花的分類
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
-##### 見 [3.1. 线性回归](https://zh.d2l.ai/chapter_deep-learning-basics/linear-regression.html)
+    * 見 [3.1. 线性回归](https://zh.d2l.ai/chapter_deep-learning-basics/linear-regression.html)
 * [機器學習算法導論](https://lib-nuanxin.wqxuetang.com/#/Book/3208845)
 * [SGD, Momentum, AdaGrad, Adam Optimizer](https://mc.ai/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92ml-notesgd-momentum-adagrad-adam-optimizer-2/)
 * [机器学习之路：python线性回归分类器 LogisticRegression SGDClassifier 进行良恶性肿瘤分类预测](https://www.cnblogs.com/Lin-Yi/p/8970510.html)
