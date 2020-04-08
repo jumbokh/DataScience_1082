@@ -18,7 +18,7 @@ Data Science class for CSU CSIE
 * 數據分析
     * [大數據](https://github.com/jumbokh/intro-computers/blob/master/BigData.md)
     * [機器學習](https://github.com/jumbokh/intro-computers/blob/master/ML_ClassD1.pdf)
-    * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf) [[Notebook]](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_sompy_simple.ipynb)
+    * [聚類範例一](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf) [[Notebook]](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_sompy_simple.ipynb)
     * [聚類範例二](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_som.ipynb)
         * ![圖一](https://github.com/jumbokh/DataScience_1082/blob/master/images/Figure_1.png)
         * ![圖二](https://github.com/jumbokh/DataScience_1082/blob/master/images/Figure_2.png)
@@ -43,6 +43,7 @@ Data Science class for CSU CSIE
 * HW1(3/12): 台電106統計年報 -- 附錄, 第232~233頁資料表 (國內經濟指標) 
 * HW2(3/19): 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020) 
     * ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
+* HW3(4/9): 以聚類範例二 immp-som.ipynb 為範本, 使用範例一之資料 (7,2)，試著執行分類
 * 問題挑戰範例
     * [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf)
         * [農產品交易開放資料](https://data.coa.gov.tw/Query/OpenData.aspx)
