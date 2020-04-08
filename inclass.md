@@ -27,7 +27,7 @@
     * [Kaggle: Boston housing price prediction](https://www.kaggle.com/c/boston-housing)
         [Boston Housing Regression Analysis](https://www.kaggle.com/tolgahancepel/boston-housing-regression-analysis) [[NoteBook]](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Boston%20Housing%20Regression%20Analysis.ipynb)
     * [Classify iris plants into three species in this classic dataset](https://www.kaggle.com/uciml/iris)
-        * [ML from Scratch with IRIS!!](https://www.kaggle.com/ash316/ml-from-scratch-with-iris) [[Notebook]](https://github.com/jumbokh/DataScience_1082/blob/master/src/ML%20from%20Scratch%20with%20IRIS!!.ipynb)
+        * [ML from Scratch with IRIS!!](https://www.kaggle.com/ash316/ml-from-scratch-with-iris) [[Notebook]](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/ML%20from%20Scratch%20with%20IRIS%21%21.ipynb)
     * [判斷是哪個亞種的鳶尾花](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/0702%20%E5%88%A4%E6%96%B7%E6%98%AF%E5%93%AA%E5%80%8B%E4%BA%9E%E7%A8%AE%E7%9A%84%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
     * [正則化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/%E6%AD%A3%E5%89%87%E5%8C%96.ipynb)
     * [標準化](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/standardizing_sequence.ipynb)
