@@ -22,6 +22,7 @@
     * 社群網路分析
 ##
 * 3/26、4/9 練習
+    * [Unsupervised Learning with SOM](https://www.kaggle.com/asparago/unsupervised-learning-with-som) [[NoteBook]](https://www.kaggle.com/jumbokh/unsupervised-learning-with-som/edit)
     * [簡單迴歸](https://nbviewer.jupyter.org/github/jumbokh/intro-computers/blob/master/src/simple_regression.ipynb)
     * [Kaggle: Boston housing price prediction](https://www.kaggle.com/c/boston-housing)
         [Boston Housing Regression Analysis](https://www.kaggle.com/tolgahancepel/boston-housing-regression-analysis) [[NoteBook]](https://github.com/jumbokh/DataScience_1082/blob/master/src/Boston%20Housing%20Regression%20Analysis.ipynb)
