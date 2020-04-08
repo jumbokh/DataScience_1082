@@ -18,8 +18,10 @@ Data Science class for CSU CSIE
 * 數據分析
     * [大數據](https://github.com/jumbokh/intro-computers/blob/master/BigData.md)
     * [機器學習](https://github.com/jumbokh/intro-computers/blob/master/ML_ClassD1.pdf)
-    * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf)  
-    * [Notebook](https://github.com/jumbokh/DataScience_1082/blob/master/src/immp_sompy_simple.ipynb)
+    * [聚類範例](https://github.com/jumbokh/intro-computers/blob/master/refers/%E8%81%9A%E9%A1%9E%E7%AF%84%E4%BE%8B6.pdf) [[Notebook]](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_sompy_simple.ipynb)
+    * [聚類範例二](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/immp_som.ipynb)
+        * ![圖一](https://github.com/jumbokh/DataScience_1082/blob/master/images/Figure_1.png)
+        * ![圖二](https://github.com/jumbokh/DataScience_1082/blob/master/images/Figure_2.png)
  * [迴歸](regression.md)
     * [簡單迴歸](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/simple_regression.ipynb)
     * [05.06 Linear Regression](https://nbviewer.jupyter.org/github/jumbokh/regression_learn/blob/master/src/05.06-Linear-Regression.ipynb)
