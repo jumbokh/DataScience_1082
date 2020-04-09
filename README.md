@@ -53,6 +53,7 @@ Data Science class for CSU CSIE
     * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
     * [氣象局開放資料擷取](中央氣象局開放資料平臺之資料擷取API)
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
+    * [Predicting Bicycle Traffic](https://github.com/DataScienceWorks/PredictingBicycleTraffic)
 ##         
 ### 參考連結
 * [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00&feature=youtu.be)
