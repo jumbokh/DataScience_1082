@@ -68,6 +68,7 @@ Data Science class for CSU CSIE
 * [vs.code Download](https://code.visualstudio.com/)
 * [Deeplearning Algorithms Tutorial ](https://github.com/KeKe-Li/tutorial)
 * [復旦大學：深度學習與神經網路, 邱錫鵬](https://nndl.github.io/) [[pdf]](https://nndl.github.io/ppt/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3%E5%B0%8F%E6%97%B6.pdf)
+* [RealCalc Scientific Calculator](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en_US)
 ##
 ### 書籍
 * ![Power BI](http://www.gotop.com.tw/Waweb2004/WawebImages/BookXL/ACI031500.jpg)
