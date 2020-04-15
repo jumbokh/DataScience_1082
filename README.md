@@ -67,6 +67,8 @@ Data Science class for CSU CSIE
 * [机器学习之路：python线性回归分类器 LogisticRegression SGDClassifier 进行良恶性肿瘤分类预测](https://www.cnblogs.com/Lin-Yi/p/8970510.html)
 * [vs.code Download](https://code.visualstudio.com/)
 * [Deeplearning Algorithms Tutorial ](https://github.com/KeKe-Li/tutorial)
+* [李宏毅-- AI課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html?fbclid=IwAR1KQwREtEHpCKeNNmiPa7uwYZITcMMag5xrc3PudXtTDG6Zf7aw-03fR6A)
+* [蔡炎龍 政大磨課師](http://moocs.nccu.edu.tw/course/172/intro)
 * [復旦大學：深度學習與神經網路, 邱錫鵬](https://nndl.github.io/) [[pdf]](https://nndl.github.io/ppt/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3%E5%B0%8F%E6%97%B6.pdf)
 * [RealCalc Scientific Calculator](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en_US)
 ##
