@@ -88,4 +88,4 @@ Data Science class for CSU CSIE
 * [鴻海-人工智慧導論](https://www.books.com.tw/products/0010826415)
 * ![book4](https://github.com/jumbokh/intro-computers/blob/master/images/book4.PNG)
 * [前程文化-大數據分析與資料挖礦2/e](https://www.books.com.tw/products/0010815082)
-#### [分享](https://drive.google.com/open?id=1Qiq2uTIAX4y71kaxyCaT5-dTsHqZkaRX)
+
