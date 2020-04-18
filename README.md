@@ -45,6 +45,7 @@ Data Science class for CSU CSIE
 * HW2(3/19): 請依高雄旅遊資料, 製作查詢報表。[高雄旅遊網-景點資料](https://data.gov.tw/dataset/47020) 
     * ![HW](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW2.JPG)
 * HW3(4/9): 以聚類範例二 immp-som.ipynb 為範本, 使用範例一之資料 (7,2)，試著執行分類
+    * ![result](https://github.com/jumbokh/DataScience_1082/blob/master/images/SOM-out.JPG)
     * ![output1](https://github.com/jumbokh/DataScience_1082/blob/master/images/SOM-ex.png)
     * ![output2](https://github.com/jumbokh/DataScience_1082/blob/master/images/SOM-ex1.png)
 * HW4(4/16): 以[optimizer selection](https://nbviewer.jupyter.org/github/jumbokh/hands-on-DL/blob/master/ex04_optimizer-selection.ipynb)程式為範本，使用 MNIST dataset (參照 [打造第一個神經網路](https://nbviewer.jupyter.org/github/yenlung/Deep-Learning-MOOC/blob/master/%E6%94%BF%E5%A4%A7%E8%81%B7%E6%B6%AF%E4%B8%AD%E5%BF%832019/%E6%89%93%E9%80%A0%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%80%8B%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.ipynb) 載入data的方式)
