@@ -53,6 +53,7 @@ Data Science class for CSU CSIE
     * ![HW4](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW4-optimizer.png)
 * 問題挑戰範例
     * [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf)
+        * [線上發表會](http://knowledge.colife.org.tw/one_video/index.aspx?sid=10804)
         * [農產品交易開放資料](https://data.coa.gov.tw/Query/ServiceDetail.aspx?id=037)
         * [氣象開放資料](http://e-service.cwb.gov.tw/HistoryDataQuery/)
         * [颱風警報](https://rdc28.cwb.gov.tw/)
