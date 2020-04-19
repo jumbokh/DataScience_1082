@@ -65,7 +65,7 @@ Data Science class for CSU CSIE
         * ![生存率--依性別](https://github.com/jumbokh/DataScience_1082/blob/master/images/Titantic-servial.JPG)
         * [All data](https://github.com/jumbokh/DataScience_1082/blob/master/data/titanic.zip)
         * [解題範例說明](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
-        * [source code](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Kaggle_Titanic_Top3%25_Medium.ipynb)
+        * [source code](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Kaggle_Titanic_Top3__Medium.ipynb)
     * [Predicting Bicycle Traffic](https://github.com/DataScienceWorks/PredictingBicycleTraffic)
 ##         
 ### 參考連結
