@@ -63,6 +63,8 @@ Data Science class for CSU CSIE
     * [氣象局開放資料擷取](中央氣象局開放資料平臺之資料擷取API)
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
         * [All data](https://github.com/jumbokh/DataScience_1082/blob/master/data/titanic.zip)
+        * [說明](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
+        * [source code](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Kaggle_Titanic_Top3%25_Medium.ipynb)
     * [Predicting Bicycle Traffic](https://github.com/DataScienceWorks/PredictingBicycleTraffic)
 ##         
 ### 參考連結
