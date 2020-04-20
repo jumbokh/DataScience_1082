@@ -1,4 +1,5 @@
-### [高師大論文資料](https://drive.google.com/file/d/14iT9UiWNZJcWD73wFn9aRUGqjW2hYvB7/view) [159MB]
+### [師大論文資料](https://drive.google.com/file/d/14iT9UiWNZJcWD73wFn9aRUGqjW2hYvB7/view) [159MB]
+#### "應用開放資料預測農產品菜價之研究：以甘藍為例", 翟柏森，國立台灣師範大學資訊工程研究所, 107年8月
 * 2011~2017 氣象站觀測資料
 * 2012.01.01~2017.12.31 菜價
 * 2012~2017 發布颱風資料
