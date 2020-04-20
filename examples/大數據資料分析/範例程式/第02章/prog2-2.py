@@ -1,0 +1,5 @@
+num = eval(input('Enter a number: '))
+print(format(num, '10d'))
+print(format(num, '10b'))
+print(format(num, '10o'))
+print(format(num, '10x'))
