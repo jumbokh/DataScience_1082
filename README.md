@@ -57,6 +57,7 @@ Data Science class for CSU CSIE
         * [農產品交易開放資料](https://data.coa.gov.tw/Query/ServiceDetail.aspx?id=037)
         * [氣象開放資料](http://e-service.cwb.gov.tw/HistoryDataQuery/)
         * [颱風警報](https://rdc28.cwb.gov.tw/)
+        * [論文取得資料](https://drive.google.com/open?id=14iT9UiWNZJcWD73wFn9aRUGqjW2hYvB7)
     * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
         * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike-ex1.JPG)
         * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike.jpg)
