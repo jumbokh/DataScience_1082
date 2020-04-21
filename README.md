@@ -85,6 +85,7 @@ Data Science class for CSU CSIE
 * [蔡炎龍 政大磨課師](http://moocs.nccu.edu.tw/course/172/intro)
 * [復旦大學：深度學習與神經網路, 邱錫鵬](https://nndl.github.io/) [[pdf]](https://nndl.github.io/ppt/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3%E5%B0%8F%E6%97%B6.pdf)
 * [RealCalc Scientific Calculator](https://play.google.com/store/apps/details?id=uk.co.nickfines.RealCalc&hl=en_US)
+* [What You Need to Know to Solve Your Data Puzzle](https://blog.cloudfactory.com/solve-your-data-puzzle?utm_campaign=RTQD%20%7C%20Email%20Nurture&utm_medium=email&_hsenc=p2ANqtz-_9VHlUd3BxZd5wrFzZqhNpzdYYdtLUQ4uJCHJkUZh87S6aQQ_BX-BIjudX2hV4WRjN3z0SCcK0HgRitg90k5LJ75P4kA&_hsmi=84864590&utm_source=hs_automation&utm_content=84864590&hsCtaTracking=2127cbf5-c61f-4601-a280-b23dcda3857a%7C96b40409-51a9-40eb-b270-7d9e1efa0dda)
 ##
 ### 書籍
 * ![Power BI](http://www.gotop.com.tw/Waweb2004/WawebImages/BookXL/ACI031500.jpg)
