@@ -1,0 +1,14 @@
+	py_demo极宽量化课件程序.使用说明
+	
+更多量化资料,请浏览网站：http://TopQuant.vip 或http://ziwang.com
+TopQuant 极宽量化社区（原zw量化），国内第一家Python量化社区!
+QQ群：124134140（zwPython大数据,量化交易,云字库，字王项目，唯一互动平台，千人大群）
+-----------------------
+	py_demo极宽量化课件程序，是极宽Python量化系列作品《零起点Python机器学习快速入门》的配套教学程序。
+	为方便大家学习，避免版本冲突，课件源码目中，已内置了所需的配套函数库和数据文件。
+	
+	安装时请注意：
+	:: py_demo可位于任意目录，默认是\zwpython\py_demo\，尽量不要使用中文路径名。
+	:: 本教学课件看适用于zwPython、anacoda以及windows、linux、mac os等各种Python3平台，初学者建议使用zwPython教学版。
+	:: 其他平台用户，请自行安装所需的模块库。
+	

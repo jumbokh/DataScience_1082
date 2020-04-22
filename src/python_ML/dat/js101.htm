@@ -1,0 +1,467 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]><html class="ie lt-ie8"><![endif]-->
+<!--[if IE 7]><html class="ie lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="ie ie8"><![endif]-->
+<!--[if IE 9]><html class="ie ie9"><![endif]-->
+<!--[if !IE]><!--> <html> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"1255494d3a","applicationID":"15702971","transactionName":"e1daR0JWVV9RER9CRl1KRxxDUVZE","queueTime":30,"applicationTime":91,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0,user-scalable=no">
+  <meta http-equiv="Cache-Control" content="no-siteapp" />
+  <meta property="wb:webmaster" content="294ec9de89e7fadb" />
+  <meta property="qc:admins" content="104102651453316562112116375" />
+  <meta property="qc:admins" content="11635613706305617" />
+  <meta property="qc:admins" content="1163561616621163056375" />
+  <meta name="google-site-verification" content="cV4-qkUJZR6gmFeajx_UyPe47GW9vY6cnCrYtCHYNh4" />
+  <meta name="google-site-verification" content="HF7lfF8YEGs1qtCE-kPml8Z469e2RHhGajy6JPVy5XI" />
+  <meta http-equiv="mobile-agent" content="format=html5; url=http://www.jianshu.com/u/d699edde9c0e">
+  
+  <title>古古飞 - 简书</title>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="WXCa23huq8/QSJ6PT75XahgfDxph524mcUHaZZ8b3+O0zXicySMLCWRHVqzIaQf8hDv33i3AZmXGF9+V3pLseg==" />
+  <!--[if lte IE 8]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="stylesheet" media="all" href="http://cdn-qn0.jianshu.io/assets/web-5a99a0857fa3ce6d9a24.css" />
+  
+  <link rel="stylesheet" media="all" href="http://cdn-qn0.jianshu.io/assets/web/pages/users/show/entry-5a99a0857fa3ce6d9a24.css" />
+  <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+  <!--[if IE 8]><link rel="stylesheet" media="all" href="http://cdn-qn0.jianshu.io/assets/scaffolding/for_ie-7f1c477ffedc13c11315103e8787dc6c.css" /><![endif]-->
+  <!--[if lt IE 9]><link rel="stylesheet" media="all" href="http://cdn-qn0.jianshu.io/assets/scaffolding/for_ie-7f1c477ffedc13c11315103e8787dc6c.css" /><![endif]-->
+  <link href="http://baijii-common.b0.upaiyun.com/icons/favicon.ico" rel="icon">
+      <link rel="apple-touch-icon-precomposed" href="http://cdn-qn0.jianshu.io/apple-touch-icons/57.png" sizes="57x57" />
+      <link rel="apple-touch-icon-precomposed" href="http://cdn-qn0.jianshu.io/apple-touch-icons/72.png" sizes="72x72" />
+      <link rel="apple-touch-icon-precomposed" href="http://cdn-qn0.jianshu.io/apple-touch-icons/76.png" sizes="76x76" />
+      <link rel="apple-touch-icon-precomposed" href="http://cdn-qn0.jianshu.io/apple-touch-icons/114.png" sizes="114x114" />
+      <link rel="apple-touch-icon-precomposed" href="http://cdn-qn0.jianshu.io/apple-touch-icons/120.png" sizes="120x120" />
+      <link rel="apple-touch-icon-precomposed" href="http://cdn-qn0.jianshu.io/apple-touch-icons/152.png" sizes="152x152" />
+</head>
+
+  <body lang="zh-CN" class="reader-black-font">
+    <!-- 全局顶部导航栏 -->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="width-limit">
+    <!-- 左上方 Logo -->
+    <a class="logo" href="/"><img src="http://cdn-qn0.jianshu.io/assets/web/logo-58fd04f6f0de908401aa561cda6a0688.png" alt="Logo" /></a>
+
+    <!-- 右上角 -->
+      <!-- 未登录显示登录/注册 -->
+      <a class="btn sign-up" href="/sign_up">注册</a>
+      <a class="btn log-in" href="/sign_in">登录</a>
+
+    <!-- 如果用户登录，显示下拉菜单 -->
+
+    <div id="view-mode-ctrl">
+    </div>
+    <div class="container">
+      <div class="row">
+        <ul class="nav navbar-nav">
+            <li class="">
+              <a href="/">
+                <span class="menu-text">首页</span><i class="iconfont ic-navigation-discover menu-icon"></i>
+</a>            </li>
+          <li class="">
+            <a class="app-download-btn" href="/apps"><span class="menu-text">下载App</span><i class="iconfont ic-navigation-download menu-icon"></i></a>
+          </li>
+          <li class="search">
+            <form target="_blank" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+              <input type="text" name="q" id="q" value="" placeholder="搜索" class="search-input" />
+              <a class="search-btn" href="javascript:void(null)"><i class="iconfont ic-search"></i></a>
+              <!-- <div id="navbar-trending-search"></div> -->
+</form>          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+    
+
+<div class="container person">
+  <div class="row">
+    <div class="col-xs-16 main">
+      <div class="main-top">
+  <a class="avatar" href="/u/d699edde9c0e">
+    <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240" alt="240" />
+</a>
+    <div class="follow-button" props-data-user-id="2909542" props-data-following="false"></div>
+    <a class="btn btn-hollow" href="/notifications#!/chats/new?mail_to=2909542">发简信</a>
+
+  <div class="title">
+    <a class="name" href="/u/d699edde9c0e">古古飞</a>
+      <i class="iconfont ic-woman"></i>
+  </div>
+  <div class="info">
+    <ul>
+      <li>
+        <div class="meta-block">
+          <p>25</p>
+          <a href="/users/d699edde9c0e/following">
+            关注 <i class="iconfont ic-arrow"></i>
+</a>        </div>
+      </li>
+      <li>
+        <div class="meta-block">
+          <p>43</p>
+          <a href="/users/d699edde9c0e/followers">
+            粉丝 <i class="iconfont ic-arrow"></i>
+</a>        </div>
+      </li>
+      <li>
+        <div class="meta-block">
+          <p>16</p>
+          <a href="/u/d699edde9c0e">
+            文章 <i class="iconfont ic-arrow"></i>
+</a>        </div>
+      </li>
+      <li>
+        <div class="meta-block">
+          <p>48590</p>
+          <div>字数</div>
+        </div>
+      </li>
+      <li>
+        <div class="meta-block">
+          <p>158</p>
+          <div>收获喜欢</div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+      <ul class="trigger-menu" data-pjax-container="#list-container"><li class="active"><a href="/u/d699edde9c0e?order_by=shared_at"><i class="iconfont ic-articles"></i> 文章</a></li><li class=""><a href="/users/d699edde9c0e/timeline"><i class="iconfont ic-feed"></i> 动态</a></li><li class=""><a href="/u/d699edde9c0e?order_by=commented_at"><i class="iconfont ic-latestcomments"></i> 最新评论</a></li><li class=""><a href="/u/d699edde9c0e?order_by=top"><i class="iconfont ic-hot"></i> 热门</a></li></ul>
+
+      <div id="list-container">
+        <!-- 文章列表模块 -->
+<ul class="note-list" infinite-scroll-url="/u/d699edde9c0e?order_by=shared_at">
+    <li id="note-8109606" data-note-id="8109606" class="">
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2017-01-01T20:11:47+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/761bc32e6d04">瑜伽，让我学会如何去坚持</a>
+    <p class="abstract">
+      1. 单位女工委搞了一个主题活动，任何女性职工一项运动能坚持做21天，在第22天一大早就可以提着证据去领取一个价值1000元的的大礼包。礼包很诱人，21天时间不算长。于是大家...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/761bc32e6d04">
+        <i class="iconfont ic-list-read"></i> 376
+</a>      <a target="_blank" href="/p/761bc32e6d04#comments">
+        <i class="iconfont ic-list-comments"></i> 6
+</a>      <a target="_blank" href="/p/761bc32e6d04">
+        <i class="iconfont ic-list-like"></i> 16
+</a>          </div>
+  </div>
+</li>
+
+    <li id="note-8106604" data-note-id="8106604" class="have-img">
+    <a class="wrap-img" href="/p/3fd3a90df9f5" target="_blank">
+      <img src="http://upload-images.jianshu.io/upload_images/2909542-defe76b2a6036c18.jpg?imageMogr2/auto-orient/strip%7CimageView2/1/w/375/h/300">
+    </a>
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2017-01-01T14:12:21+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/3fd3a90df9f5">我们生活在“创新”年代</a>
+    <p class="abstract">
+      这是个奋斗的社会，不论初出茅庐的大学生，还是年过半百仍旧弓着身影奋斗在当下的长者，都在为自己的理想梦想或存在感而刷新着每一天。电子商务，智能科技日益发达的今天，人们的节奏似乎...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/3fd3a90df9f5">
+        <i class="iconfont ic-list-read"></i> 25
+</a>      <a target="_blank" href="/p/3fd3a90df9f5#comments">
+        <i class="iconfont ic-list-comments"></i> 0
+</a>      <a target="_blank" href="/p/3fd3a90df9f5">
+        <i class="iconfont ic-list-like"></i> 2
+</a>          </div>
+  </div>
+</li>
+
+    <li id="note-7438987" data-note-id="7438987" class="have-img">
+    <a class="wrap-img" href="/p/12c591e9b6d4" target="_blank">
+      <img src="http://upload-images.jianshu.io/upload_images/2909542-3f0ee5259dbad261.jpg?imageMogr2/auto-orient/strip%7CimageView2/1/w/375/h/300">
+    </a>
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2016-12-06T05:52:55+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/12c591e9b6d4">嘿嘿，同学，记得骚年时代做过的坏事吗？</a>
+    <p class="abstract">
+      1.老师病了 上课铃响了。大家静静等待在教室，这节课是会计学原理。想起毛老太枯燥的会计理论，头开始无穷大。从上课的第一分钟开始就盼望着下课时的倒计时。时间过去了五分钟，从不迟...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/12c591e9b6d4">
+        <i class="iconfont ic-list-read"></i> 42
+</a>      <a target="_blank" href="/p/12c591e9b6d4#comments">
+        <i class="iconfont ic-list-comments"></i> 2
+</a>      <a target="_blank" href="/p/12c591e9b6d4">
+        <i class="iconfont ic-list-like"></i> 0
+</a>          </div>
+  </div>
+</li>
+
+    <li id="note-7374596" data-note-id="7374596" class="have-img">
+    <a class="wrap-img" href="/p/f6e374ec0725" target="_blank">
+      <img src="http://upload-images.jianshu.io/upload_images/2909542-e73b957319da2be6.jpg?imageMogr2/auto-orient/strip%7CimageView2/1/w/375/h/300">
+    </a>
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2016-12-03T12:15:19+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/f6e374ec0725">大学里，遇上一场恋爱，挺好</a>
+    <p class="abstract">
+      如果说这一辈子能读过一次大学，那是幸运的。 如果说这辈子读过大学，并且在大学中谈过一场恋爱，那是幸福的。 如果说这辈子读过大学，并且谈过恋爱，而且恋爱对象成了你一辈子的爱人，...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/f6e374ec0725">
+        <i class="iconfont ic-list-read"></i> 383
+</a>      <a target="_blank" href="/p/f6e374ec0725#comments">
+        <i class="iconfont ic-list-comments"></i> 8
+</a>      <a target="_blank" href="/p/f6e374ec0725">
+        <i class="iconfont ic-list-like"></i> 9
+</a>      <a target="_blank" href="/p/f6e374ec0725">
+        <i class="iconfont ic-list-money"></i> 2
+</a>    </div>
+  </div>
+</li>
+
+    <li id="note-7208919" data-note-id="7208919" class="have-img">
+    <a class="wrap-img" href="/p/c191f2a2edae" target="_blank">
+      <img src="http://upload-images.jianshu.io/upload_images/2909542-769c3c732aea824b.png?imageMogr2/auto-orient/strip%7CimageView2/1/w/375/h/300">
+    </a>
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2016-11-25T19:44:03+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/c191f2a2edae">亲爱的同学，你可曾进入过老师的内心世界？</a>
+    <p class="abstract">
+      1.课堂篇 亲爱的同学，你知道吗？上课是脑力劳动，更是一种体力活，当你能够静静地坐在座位上托腮凝望老师眉飞色舞的时候，你知道很多老师的嗓子因为有咽喉炎很痛很痒。连续几节课下来...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/c191f2a2edae">
+        <i class="iconfont ic-list-read"></i> 178
+</a>      <a target="_blank" href="/p/c191f2a2edae#comments">
+        <i class="iconfont ic-list-comments"></i> 7
+</a>      <a target="_blank" href="/p/c191f2a2edae">
+        <i class="iconfont ic-list-like"></i> 12
+</a>          </div>
+  </div>
+</li>
+
+    <li id="note-7135283" data-note-id="7135283" class="have-img">
+    <a class="wrap-img" href="/p/7b33a6a6b1fa" target="_blank">
+      <img src="http://upload-images.jianshu.io/upload_images/2909542-70cffb7159f8ec99.png?imageMogr2/auto-orient/strip%7CimageView2/1/w/375/h/300">
+    </a>
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2016-11-22T18:02:20+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/7b33a6a6b1fa">大学生，你该为专业准备些什么？</a>
+    <p class="abstract">
+      商婷婷曾经是我为之骄傲的一个学生。 商婷婷是10级学生，大学期间叱咤风云，她让我骄傲的不是成绩。学的会计专业，却对专业的兴趣并不是很大。她外向，喜欢管理，并且同学心目中的威信...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/7b33a6a6b1fa">
+        <i class="iconfont ic-list-read"></i> 844
+</a>      <a target="_blank" href="/p/7b33a6a6b1fa#comments">
+        <i class="iconfont ic-list-comments"></i> 13
+</a>      <a target="_blank" href="/p/7b33a6a6b1fa">
+        <i class="iconfont ic-list-like"></i> 36
+</a>      <a target="_blank" href="/p/7b33a6a6b1fa">
+        <i class="iconfont ic-list-money"></i> 4
+</a>    </div>
+  </div>
+</li>
+
+    <li id="note-6981158" data-note-id="6981158" class="have-img">
+    <a class="wrap-img" href="/p/dab9acf7140b" target="_blank">
+      <img src="http://upload-images.jianshu.io/upload_images/2909542-afa586b3ba8fb2f7.png?imageMogr2/auto-orient/strip%7CimageView2/1/w/375/h/300">
+    </a>
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2016-11-16T19:22:01+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/dab9acf7140b">情人结，我的泪</a>
+    <p class="abstract">
+      1 杜非尔终于鼓起勇气，伸出了自己洁白无瑕的手臂。 是啊，这条手臂曾经迷倒了不少人，杜非尔仔细端详着，晶莹剔透，光滑柔软，似乎还透出一股淡淡的体香。 如今，几分钟后，这条天使...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/dab9acf7140b">
+        <i class="iconfont ic-list-read"></i> 247
+</a>      <a target="_blank" href="/p/dab9acf7140b#comments">
+        <i class="iconfont ic-list-comments"></i> 6
+</a>      <a target="_blank" href="/p/dab9acf7140b">
+        <i class="iconfont ic-list-like"></i> 11
+</a>      <a target="_blank" href="/p/dab9acf7140b">
+        <i class="iconfont ic-list-money"></i> 1
+</a>    </div>
+  </div>
+</li>
+
+    <li id="note-6884165" data-note-id="6884165" class="have-img">
+    <a class="wrap-img" href="/p/7b6a6d2ba74a" target="_blank">
+      <img src="http://upload-images.jianshu.io/upload_images/2909542-0fbed24e93fc1e1a.png?imageMogr2/auto-orient/strip%7CimageView2/1/w/375/h/300">
+    </a>
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2016-11-10T22:24:50+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/7b6a6d2ba74a">为什么要生气？</a>
+    <p class="abstract">
+      生活在繁杂的世界，难免会遇到各种事，难免会碰到各种人，因此，生气不可避免。 有次我用滴滴顺风车软件打车回老家，因为行程较长，本着节约金钱同时也不浪费资源的原则，我照例用了拼车...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/7b6a6d2ba74a">
+        <i class="iconfont ic-list-read"></i> 716
+</a>      <a target="_blank" href="/p/7b6a6d2ba74a#comments">
+        <i class="iconfont ic-list-comments"></i> 23
+</a>      <a target="_blank" href="/p/7b6a6d2ba74a">
+        <i class="iconfont ic-list-like"></i> 22
+</a>          </div>
+  </div>
+</li>
+
+    <li id="note-6758136" data-note-id="6758136" class="have-img">
+    <a class="wrap-img" href="/p/20b9812b8dac" target="_blank">
+      <img src="http://upload-images.jianshu.io/upload_images/2909542-43a6203ad9c37267.png?imageMogr2/auto-orient/strip%7CimageView2/1/w/375/h/300">
+    </a>
+  <div class="content">
+    <div class="author">
+      <a class="avatar" target="_blank" href="/u/d699edde9c0e">
+        <img src="http://upload.jianshu.io/users/upload_avatars/2909542/f2d458b6e67a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96" alt="96" />
+</a>      <div class="name">
+        <a class="blue-link" target="_blank" href="/u/d699edde9c0e">古古飞</a>
+        <span class="time" data-shared-at="2016-11-05T00:22:40+08:00"></span>
+      </div>
+    </div>
+    <a class="title" target="_blank" href="/p/20b9812b8dac">别让人言淹没了自己的人生</a>
+    <p class="abstract">
+      秋天的黄昏，一个人坐在门口台阶上看着马路上的汽车飞驰，心里怅怅然。秋天的苍凉总是容易勾起不少过往的人和事，忽地接到了很久很久没有联系的好友熊的电话。 “桐走了10年了，昨天突...
+    </p>
+    <div class="meta">
+      <a target="_blank" href="/p/20b9812b8dac">
+        <i class="iconfont ic-list-read"></i> 188
+</a>      <a target="_blank" href="/p/20b9812b8dac#comments">
+        <i class="iconfont ic-list-comments"></i> 12
+</a>      <a target="_blank" href="/p/20b9812b8dac">
+        <i class="iconfont ic-list-like"></i> 9
+</a>          </div>
+  </div>
+</li>
+
+</ul>
+
+      </div>
+    </div>
+    
+<div class="col-xs-7 col-xs-offset-1 aside">
+  <div class="title">个人介绍</div>
+  <div class="description">
+    <div class="js-intro"></div>
+    
+    
+  </div>
+  <ul class="list user-dynamic">
+    <li>
+      <a href="/users/d699edde9c0e/subscriptions">
+        <i class="iconfont ic-collection"></i> <span>她关注的专题/文集</span>
+</a>    </li>
+    <li>
+      <a href="/users/d699edde9c0e/liked_notes">
+        <i class="iconfont ic-like"></i> <span>她喜欢的文章</span>
+</a>    </li>
+  </ul>
+  <!-- 专题和文集 -->
+  <div class="js-collection-and-notebook-container"></div>
+</div>
+
+  </div>
+</div>
+<div class="side-tool">
+  <ul>
+    <li class="back-top hide"><a href="#"><i class="iconfont ic-backtop"></i></a></li>
+  </ul>
+</div>
+
+    <script type="application/json" data-name="page-data">{"user_signed_in":false,"locale":"zh-CN","os":"windows","read_mode":"day","read_font":"font2","user":{"slug":"d699edde9c0e"},"has_collections":true}</script>
+    
+    <script src="http://cdn-qn0.jianshu.io/assets/babel-polyfill-5a99a0857fa3ce6d9a24.js"></script>
+    <script src="http://cdn-qn0.jianshu.io/assets/web-base-5a99a0857fa3ce6d9a24.js"></script>
+<script src="http://cdn-qn0.jianshu.io/assets/web-5a99a0857fa3ce6d9a24.js"></script>
+    
+    <script src="http://cdn-qn0.jianshu.io/assets/web/pages/users/show/entry-5a99a0857fa3ce6d9a24.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35169517-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<div style="display:none">
+  <script src="https://s11.cnzz.com/z_stat.php?id=1258679142&web_id=1258679142" language="JavaScript"></script>
+</div>
+
+<script>
+  (function(){
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      if (curProtocol === 'https') {
+          bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+      }
+      else {
+          bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+      }
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+  })();
+</script>
+
+  </body>
+</html>
