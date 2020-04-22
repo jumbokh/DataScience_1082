@@ -51,6 +51,7 @@
     * [波士頓房價：蔡炎龍老師](http://moocs.nccu.edu.tw/media/17898)
         * [波士頓房價預測](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/0604%20%E6%B3%A2%E5%A3%AB%E9%A0%93%E6%88%BF%E5%83%B9%E9%A0%90%E6%B8%AC.ipynb)
         * [房價預測程式](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Boston%20Housing%20Regression%20Analysis.ipynb)
+    * [西雅圖自行車](https://blog.csdn.net/elma_tww/article/details/88111866)
         * [Predicting Bicycle Traffic](https://github.com/DataScienceWorks/PredictingBicycleTraffic)
             * [Fremont Bridge Bicycle Counter](https://data.seattle.gov/Transportation/Fremont-Bridge-Bicycle-Counter/65db-xm6k)
 * 分類問題    
