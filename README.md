@@ -53,7 +53,7 @@ Data Science class for CSU CSIE
     * ![HW4](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW4-optimizer.png)
 * 問題挑戰範例
     * [波士頓房價：蔡炎龍老師](http://moocs.nccu.edu.tw/media/17898)
-        * []()
+        * [波士頓房價預測](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/0604%20%E6%B3%A2%E5%A3%AB%E9%A0%93%E6%88%BF%E5%83%B9%E9%A0%90%E6%B8%AC.ipynb)
         * [房價預測程式](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Boston%20Housing%20Regression%20Analysis.ipynb)
     * [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf) [[資料說明]](https://github.com/jumbokh/DataScience_1082/tree/master/examples) [感謝作者翟先生提供論文資料]
         * [線上發表會](http://knowledge.colife.org.tw/one_video/index.aspx?sid=10804)
