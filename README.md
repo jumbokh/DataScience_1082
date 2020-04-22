@@ -61,7 +61,7 @@ Data Science class for CSU CSIE
     * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
         * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike-ex1.JPG)
         * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike.jpg)
-    * [氣象局開放資料擷取](中央氣象局開放資料平臺之資料擷取API)
+    * [氣象局開放資料擷取](https://opendata.cwb.gov.tw/dataset/climate?page=1)
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
         * ![生存率--依性別](https://github.com/jumbokh/DataScience_1082/blob/master/images/Titantic-servial.JPG)
         * [All data](https://github.com/jumbokh/DataScience_1082/blob/master/data/titanic.zip)
