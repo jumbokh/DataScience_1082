@@ -44,6 +44,7 @@
 * 4/23 練習
 * [HW3說明](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/HW3_som.ipynb)
 * [HW4說明](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/HW4_optimizer_selection.ipynb)
+* [特徵工程](https://github.com/jumbokh/DataScience_1082/blob/master/data/%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B.pdf)
 ##
 * 政府開放資料擷取：[政府開放資料](https://data.gov.tw/)
     * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
@@ -65,4 +66,4 @@
         * [All data](https://github.com/jumbokh/DataScience_1082/blob/master/data/titanic.zip)
         * [解題範例說明](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
         * [source code](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Kaggle_Titanic_Top3__Medium.ipynb)
- * [特徵工程](https://github.com/jumbokh/DataScience_1082/blob/master/data/%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B.pdf)
+ 
