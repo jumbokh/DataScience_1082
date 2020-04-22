@@ -33,10 +33,7 @@ Data Science class for CSU CSIE
 
 * [深度學習](https://github.com/jumbokh/intro-computers/blob/master/DeepLearning.md)
     * [深度學習--ch3 Notebook](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Ch03.ipynb)
-* [雲端運算](https://github.com/jumbokh/intro-computers/blob/master/cloud.md)
-    * 雲端平台 
-        * Microsoft Azure
-        * Google Cloud Platform
+* [練習](inclass.md)
 
 ##
 
