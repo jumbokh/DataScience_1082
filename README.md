@@ -52,6 +52,9 @@ Data Science class for CSU CSIE
     * ![correct](https://github.com/jumbokh/DataScience_1082/blob/master/images/correct.JPG)
     * ![HW4](https://github.com/jumbokh/DataScience_1082/blob/master/images/HW4-optimizer.png)
 * 問題挑戰範例
+    * [波士頓房價：蔡炎龍老師](http://moocs.nccu.edu.tw/media/17898)
+        * []()
+        * [房價預測程式](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Boston%20Housing%20Regression%20Analysis.ipynb)
     * [應用開放資料預測農產品菜價之研究, 師範大學, 翟柏森](http://nccur.lib.nccu.edu.tw/handle/140.119/118330) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/paper.pdf) [[資料說明]](https://github.com/jumbokh/DataScience_1082/tree/master/examples) [感謝作者翟先生提供論文資料]
         * [線上發表會](http://knowledge.colife.org.tw/one_video/index.aspx?sid=10804)
         * [農產品交易開放資料](https://data.coa.gov.tw/Query/ServiceDetail.aspx?id=037)
@@ -73,6 +76,7 @@ Data Science class for CSU CSIE
 ### 參考連結
 * [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00&feature=youtu.be)
 * [李宏毅老師--機器學習課程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html?fbclid=IwAR1KQwREtEHpCKeNNmiPa7uwYZITcMMag5xrc3PudXtTDG6Zf7aw-03fR6A)
+* [蔡炎龍老師 政大MOOC上課](https://github.com/yenlung/Python-3-Data-Analysis-Basics/tree/master/2017%20%E6%94%BF%E5%A4%A7%20MOOC%20%E4%B8%8A%E8%AA%B2)
 * [iris-经典案例解析-机器学习](https://www.jianshu.com/p/da18f0cd7f60)
     * 見 7.5 做鳶尾花的分類
 * [动手学深度学习](https://1024.com/a/279/%E4%B8%80%E6%9C%AC%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%A5%BD%E4%B9%A6dive-into-deep-learning-%E4%B8%AD%E8%8B%B1%E6%96%87)
