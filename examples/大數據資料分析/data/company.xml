@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<data>
+    <department>
+		<name>Accounting</name>
+		<members>5</members>
+		<manager>Ben</manager>
+	</department>
+	<department>
+		<name>Marketing</name>
+		<members>10</members>
+		<manager>Karen</manager>
+	</department>
+	<department>
+		<name>R and D</name>
+		<members>15</members>
+		<manager>Sam</manager>
+	</department>
+</data>
