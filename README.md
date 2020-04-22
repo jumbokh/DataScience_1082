@@ -57,18 +57,14 @@ Data Science class for CSU CSIE
         * [農產品交易開放資料](https://data.coa.gov.tw/Query/ServiceDetail.aspx?id=037)
         * [氣象開放資料](http://e-service.cwb.gov.tw/HistoryDataQuery/)
         * [颱風警報](https://rdc28.cwb.gov.tw/)
-        * [論文取得資料](https://drive.google.com/open?id=14iT9UiWNZJcWD73wFn9aRUGqjW2hYvB7)
-    * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
-        * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike-ex1.JPG)
-        * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike.jpg)
+        * [論文取得資料](https://drive.google.com/open?id=1OgMsd98AuFppckQyvCgtgeW90OKHKUK4)
     * [氣象局開放資料擷取](https://opendata.cwb.gov.tw/dataset/climate?page=1)
     * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
         * ![生存率--依性別](https://github.com/jumbokh/DataScience_1082/blob/master/images/Titantic-servial.JPG)
         * [All data](https://github.com/jumbokh/DataScience_1082/blob/master/data/titanic.zip)
         * [解題範例說明](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
         * [source code](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Kaggle_Titanic_Top3__Medium.ipynb)
-    * [Predicting Bicycle Traffic](https://github.com/DataScienceWorks/PredictingBicycleTraffic)
-        * [Fremont Bridge Bicycle Counter](https://data.seattle.gov/Transportation/Fremont-Bridge-Bicycle-Counter/65db-xm6k)
+  
 ##         
 ### 參考連結
 * [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00&feature=youtu.be)
