@@ -41,3 +41,22 @@
        * [scikit-learn classification](https://scikit-learn.org/stable/auto_examples/index.html#classification)
     * [colab in Google Drive](https://nbviewer.jupyter.org/github/jumbokh/deep-learning-with-python-notebooks/blob/master/2.1-a-first-look-at-a-neural-network.ipynb) [記得最前面加這一行 code: %tensorflow_version 1.x]
 ##
+* 4/23 練習
+* 政府開放資料擷取：[政府開放資料](https://data.gov.tw/)
+    * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
+        * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike-ex1.JPG)
+        * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike.jpg)
+    * [氣象局開放資料擷取](https://opendata.cwb.gov.tw/dataset/climate?page=1)
+* 廻歸分析 [pdf](https://github.com/jumbokh/DataScience_1082/blob/master/data/%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.pdf)
+    * [波士頓房價：蔡炎龍老師](http://moocs.nccu.edu.tw/media/17898)
+        * [波士頓房價預測](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/0604%20%E6%B3%A2%E5%A3%AB%E9%A0%93%E6%88%BF%E5%83%B9%E9%A0%90%E6%B8%AC.ipynb)
+        * [房價預測程式](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Boston%20Housing%20Regression%20Analysis.ipynb)
+        * [Predicting Bicycle Traffic](https://github.com/DataScienceWorks/PredictingBicycleTraffic)
+            * [Fremont Bridge Bicycle Counter](https://data.seattle.gov/Transportation/Fremont-Bridge-Bicycle-Counter/65db-xm6k)
+* 分類問題    
+    * Kaggle 競賽：鐵達尼號 [(Titanic: Machine Learning from Disaster)](https://www.kaggle.com/c/titanic)
+        * ![生存率--依性別](https://github.com/jumbokh/DataScience_1082/blob/master/images/Titantic-servial.JPG)
+        * [All data](https://github.com/jumbokh/DataScience_1082/blob/master/data/titanic.zip)
+        * [解題範例說明](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
+        * [source code](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Kaggle_Titanic_Top3__Medium.ipynb)
+ * [特徵工程](https://github.com/jumbokh/DataScience_1082/blob/master/data/%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B.pdf)
