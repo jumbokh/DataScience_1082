@@ -68,6 +68,7 @@ Data Science class for CSU CSIE
         * [解題範例說明](https://medium.com/@yulongtsai/https-medium-com-yulongtsai-titanic-top3-8e64741cc11f)
         * [source code](https://nbviewer.jupyter.org/github/jumbokh/DataScience_1082/blob/master/src/Kaggle_Titanic_Top3__Medium.ipynb)
     * [Predicting Bicycle Traffic](https://github.com/DataScienceWorks/PredictingBicycleTraffic)
+        * [Fremont Bridge Bicycle Counter](https://data.seattle.gov/Transportation/Fremont-Bridge-Bicycle-Counter/65db-xm6k)
 ##         
 ### 參考連結
 * [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00&feature=youtu.be)
