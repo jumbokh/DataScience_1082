@@ -1,0 +1,9 @@
+numpy
+matplotlib
+array
+numexpr
+lxml
+tushare
+psutil
+robobrowser
+kiwisalver
