@@ -47,7 +47,7 @@
 * [特徵工程](https://github.com/jumbokh/DataScience_1082/blob/master/data/%E7%89%B9%E5%BE%B5%E5%B7%A5%E7%A8%8B.pdf)
 ##
 * 政府開放資料擷取：[政府開放資料](https://data.gov.tw/)
-    * [新北市公共自行車租賃系統(YouBike)](https://data.ntpc.gov.tw/od/detail?oid=71CD1490-A2DF-4198-BEF1-318479775E8A)
+    * [新北市公共自行車租賃系統(YouBike)](https://data.gov.tw/dataset/123026)
         * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike-ex1.JPG)
         * ![reorginaze](https://github.com/jumbokh/DataScience_1082/blob/master/images/ubike.jpg)
     * [氣象局開放資料擷取](https://opendata.cwb.gov.tw/dataset/climate?page=1)
