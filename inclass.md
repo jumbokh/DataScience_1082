@@ -1,5 +1,5 @@
 ## 課堂練習
-* 3/12 練習 (請下載範例資料檔並解壓縮成 C:\Data： [Data.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/Data.zip))
+* 3/12 練習 (請下載範例資料檔並解壓縮成 C:\Data： [Data.zip](https://github.com/jumbokh/DataScience_1082/blob/master/data/BIData.zip))
     * [PowerBI 下載安裝](https://www.microsoft.com/zh-TW/download/details.aspx?id=58494)
     * [臺灣行政區人口列表](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E4%BA%BA%E5%8F%A3%E5%88%97%E8%A1%A8)
     * [EX1 -- 從excel 檔案讀取資料](https://github.com/jumbokh/DataScience_1082/blob/master/data/example/C01/C01E01.xlsx) [[pdf]](https://github.com/jumbokh/DataScience_1082/blob/master/data/ex1.pdf)
